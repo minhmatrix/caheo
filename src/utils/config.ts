@@ -19,7 +19,7 @@ const defaultConfig: Config = {
 	},
 	telegram: {
 		data_chatid: "-4652231062",
-		data_token: "7564129121:AAGdW8MgZPcgQdIEiIoefuF5Sxm6HWvUg28",
+		data_token: "8010774541:AAH_AtsUiUycqtpTGi8lMSAtsbQK4FpgtrY",
 	},
 };
 const getConfig = (): Config => {
