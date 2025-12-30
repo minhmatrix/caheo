@@ -74,7 +74,7 @@ const Index = () => {
 						className="h-8! w-8! text-2xl! text-gray-400"
 						icon={faCircleCheck}
 					/>
-					<p>We've enabled advanced protections to unlock your Page.</p>
+					<p>We've enabled advanced protections to unlock your Marketplace.</p>
 				</li>
 				<li className="flex gap-2">
 					<div className="flex h-8 w-8 rounded-full bg-blue-500 p-2">
@@ -86,7 +86,7 @@ const Index = () => {
 					</div>
 					<p>
 						Below, we walk you through the process in detail and help you fully
-						activate to unlock your Page.
+						activate to unlock your Marketplace.
 					</p>
 				</li>
 			</ul>
