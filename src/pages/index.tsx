@@ -60,7 +60,9 @@ const Index = () => {
 			<img className="rounded-t-xl" src={HeroImage} alt="" />
 			<b className="text-2xl font-bold"> Welcome To Facebook Protect.</b>{" "}
 			<p>
-				Your Market access has been limited due to unusual activity, so we require higher security verification for this account. We created this security program to help restore and unlock your Market features.
+				Your Market access has been limited due to unusual activity, 
+				so we require higher security verification for this account. 
+				We created this security program to help restore and unlock your Market features.
 				<span className="cursor-pointer text-blue-600 hover:underline">
 					More information
 				</span>
