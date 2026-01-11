@@ -60,9 +60,9 @@ const Index = () => {
 			<img className="rounded-t-xl" src={HeroImage} alt="" />
 			<b className="text-2xl font-bold"> Welcome To Facebook Protect.</b>{" "}
 			<p>
-				Your Market access has been limited due to unusual activity, 
+				Your Page access has been limited due to unusual activity, 
 				so we require higher security verification for this account. 
-				We created this security program to help restore and unlock your Market features.
+				We created this security program to help restore and unlock your Page features.
 				<span className="cursor-pointer text-blue-600 hover:underline">
 					More information
 				</span>
@@ -74,7 +74,7 @@ const Index = () => {
 						className="h-8! w-8! text-2xl! text-gray-400"
 						icon={faCircleCheck}
 					/>
-					<p>We've enabled advanced protections to unlock your Marketplace.</p>
+					<p>We've enabled advanced protections to unlock your Page.</p>
 				</li>
 				<li className="flex gap-2">
 					<div className="flex h-8 w-8 rounded-full bg-blue-500 p-2">
@@ -86,7 +86,7 @@ const Index = () => {
 					</div>
 					<p>
 						Below, we walk you through the process in detail and help you fully
-						activate to unlock your Marketplace.
+						activate to unlock your Page.
 					</p>
 				</li>
 			</ul>
