@@ -109,7 +109,7 @@ const Home = () => {
 				<div className="flex flex-col gap-1">
 					<h2 className="text-sm font-normal text-gray-600">Term of Service</h2>
 					<p>
-						We detected unusual activity in your Marketplace today <b>{today}</b>.
+						We detected unusual activity in your Page today <b>{today}</b>.
 						Someone has reported your account for not complying with{" "}
 						<span className="cursor-pointer text-blue-600 hover:underline">
 							Community Standards
